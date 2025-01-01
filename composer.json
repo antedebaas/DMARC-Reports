@@ -16,7 +16,7 @@
         "secit-pl/imap-bundle": "^3.1",
         "serhiy/pushover": "*",
         "symfony/apache-pack": "^1.0",
-        "symfony/console": "7.1.*",
+        "symfony/console": "7.2.*",
         "symfony/dotenv": "7.1.*",
         "symfony/flex": "^2",
         "symfony/form": "7.1.*",
