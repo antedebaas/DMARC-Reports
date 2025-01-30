@@ -76,6 +76,11 @@ See `LICENSE.txt` for both the license and the additional terms below.
    ```
 3. point the webserver root to the public/ directory
 4. point your webbrowser to http(s)://[yourhost]/setup and follow instructions
+   
+   a. after the first page (which generates `.env.local`) if you are **not using sqlite** you need to run
+   ```sh
+   php [root path of this project]/bin/console cache:clear
+   ```
 5. run installservice.sh to install the systemd service and timer for automated mail checking
    ```sh
    bash [root path of this project]/installservice.sh
