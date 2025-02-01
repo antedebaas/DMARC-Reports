@@ -23,7 +23,7 @@
         "symfony/framework-bundle": "7.1.*",
         "symfony/http-client": "7.1.*",
         "symfony/lokalise-translation-provider": "7.1.*",
-        "symfony/mailer": "7.1.*",
+        "symfony/mailer": "7.2.*",
         "symfony/runtime": "7.1.*",
         "symfony/security-bundle": "7.1.*",
         "symfony/translation": "7.1.*",
